@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitsasmal1&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsasmal1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitsasmal1" alt="mohitsasmal1" /></a> </p>
-
 - 🔭 I’m currently working on **Flutter project**
 
 - 🌱 I’m currently learning **Python, Dart, JS and Ethical Hacking**
