@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1kcvtELYgoYpjfIzUwSYtEgpnxvb2lp29/view?usp=share_link)](https://rishavchanda.io)
+[![MasterHead](https://drive.google.com/file/d/1kcvtELYgoYpjfIzUwSYtEgpnxvb2lp29/view?usp=share_link)]
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/99287/screenshots/3839839/work_work_work.gif">
